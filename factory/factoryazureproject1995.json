@@ -1,0 +1,9 @@
+{
+	"name": "factoryazureproject1995",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "62f24051-613b-4896-a548-d2af68c2908d",
+		"tenantId": "77e5ffe2-d52e-4564-b0ec-dedb2ce7aeb9"
+	}
+}
